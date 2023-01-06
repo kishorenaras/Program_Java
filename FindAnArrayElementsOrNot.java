@@ -6,7 +6,7 @@ import java.util.stream.IntStream;
 public class FindAnArrayElementsOrNot {
 
 	int array[]= {1,2,3,4,5};
-	int numbertofind=3;
+	int numbertofind=2;
 	boolean found=false;
 	public void anArrayElementsOrNot()
 	
